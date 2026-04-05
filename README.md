@@ -7,7 +7,7 @@
 ---
 
 ### 🏗️ Currently Building & Learning
-* ☕ **[Nerv](LINK_TO_REPO)** – A full-stack mock coffee shop project merging clean, motion-driven UI with SQL/Python logic.
+* ☕ **[Nerv](choreocoder/NERV-COFFEE https://share.google/4GoiICQfsxcsTYswk)** – A full-stack mock coffee shop project merging clean, motion-driven UI with SQL/Python logic.
 * 🎓 **GenAI for Software Engineers** – Recently certified through **WeThinkCode_**, exploring how to leverage Generative AI for smarter documentation, code refactoring, and system architecture.
 * ✍️ **[Substack Name](LINK_TO_SUBSTACK)** – Researching the intersection of AI, creativity, and the future of human movement.
 
