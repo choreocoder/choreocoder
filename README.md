@@ -32,7 +32,7 @@
 ---
 
 ### 🌟 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otlile-lebelo-523a07360?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=white)](YOUR_SUBSTACK_URL)
 
 ---
